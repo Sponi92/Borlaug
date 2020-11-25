@@ -1,0 +1,34 @@
+#all {
+  text-align:center;
+  background-color: #B5AFAF;
+  border-radius:25px;
+  position: absolute; top:30px;
+}
+#img-div {
+  background:white;
+  width:90%;
+  margin:auto;
+  border-radius:10px;
+  font-style:italic;
+}
+#image {
+  display:block;
+  max-width:100%;
+  height:auto;
+  margin:auto;
+}
+  #title{
+    margin:auto;
+    text-align: center;
+  }
+#img-caption {
+  text-align:center;
+}
+#tribute-info{
+  font-style: oblique;
+}
+
+#title{
+  font-family:sans-serif;
+}
+
